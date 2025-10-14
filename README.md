@@ -5,7 +5,7 @@
 <ul>
   <li>Email: mohamedruzan.pro@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/ruzan-mohamed-888a91388" target="_blank">Ruzan Mohamed</a></li>
-  <li>LinkedIn: <a href="" target="_blank">Ruzan Mohamed</a></li>
+  <li>Portfolio: <a href="https://ruzan-mohamed.github.io/Portfolio-Website/" target="_blank">Ruzan Mohamed</a></li>
 </ul>
 <h4>⚒️ Skills</h4>
 <ul>
