@@ -1,3 +1,3 @@
 <h1 align="center">Hi 👋, I'm Ruzan Mohamed</h1>
 <h3 align="center">Aspiring Front-End Developer | HTML & CSS Enthusiast | Undergraduate at Rajarata University of Sri Lanka | Future Full-Stack Developer</h3>
-<hr height="5px"
+<hr height="3px">
