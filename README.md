@@ -1,5 +1,5 @@
-## Hi there 👋, I am Ruzan Mohames
+## Hi there 👋, I am Ruzan Mohamed
 
 Welcome to my profile
-    <li> 🌟 Undergraduate in Information Communication Technology</li>
+    <li indent=0.5rem> 🌟 Undergraduate in Information Communication Technology</li>
     <li>📍 Sri Lanka </li>
