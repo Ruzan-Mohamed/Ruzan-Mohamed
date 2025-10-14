@@ -3,6 +3,6 @@
 <hr height="3px">
 <h4> Let's Connect</h4>
 <ul>
-  <li>Email: <a href="mailto:">mohamedruzan.pro@gmail.com</a></li>
-  <li>LinkedIn: </li>
+  <li>Email: mohamedruzan.pro@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/ruzan-mohamed-888a91388" target="_blank">Ruzan Mohamed</a></li>
 </ul>
