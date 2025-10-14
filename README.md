@@ -1,5 +1,2 @@
-## Hi there 👋, I am Ruzan Mohamed
-
-Welcome to my profile
-    <li indent=0.5rem> 🌟 Undergraduate in Information Communication Technology</li>
-    <li>📍 Sri Lanka </li>
+<h1 align="center">Hi 👋, I'm Ruzan Mohamed</h1>
+<h3 align="center">Aspiring Front-End Developer | HTML & CSS Enthusiast | Undergraduate at Rajarata University of Sri Lanka | Future Full-Stack Developer</h3>
