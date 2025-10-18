@@ -16,5 +16,5 @@
 <hr height="2px">
 <h4>🌱 Currently Learning </h4>
 <ul>
-  <li>Basic Javscript to Advanced</li>
+  <li>Basic <b>Javscript</b> to Advanced</li>
 </ul>
