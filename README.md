@@ -7,8 +7,14 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/ruzan-mohamed-888a91388" target="_blank">Ruzan Mohamed</a></li>
   <li>Portfolio: <a href="https://ruzan-mohamed.github.io/Portfolio-Website/" target="_blank">Ruzan Mohamed</a></li>
 </ul>
+<hr height="2px">
 <h4>⚒️ Skills</h4>
 <ul>
-  <li><b>Languages:</b>HTML, CSS</li>
-  <li><b>Tools:</b>Visual Studio Code</li>
+  <li><b>Languages: </b>HTML, CSS</li>
+  <li><b>Tools: </b>Visual Studio Code</li>
+</ul>
+<hr height="2px">
+<h4>🌱 Currently Learning </h4>
+<ul>
+  <li>Basic Javscript to Advanced</li>
 </ul>
