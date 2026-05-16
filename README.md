@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruzan-Mohamed) 
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzan-Mohamed&layout=compact&theme=tokyonight)
