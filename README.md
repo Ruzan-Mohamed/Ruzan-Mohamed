@@ -33,8 +33,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzan-Mohamed&layout=compact&theme=tokyonight)
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruzan-Mohamed&theme=tokyonight)
