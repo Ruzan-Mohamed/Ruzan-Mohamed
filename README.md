@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://www.github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight)
   
 </p>
 
