@@ -1,76 +1,66 @@
-# Hi 👋 I'm Ruzan
+# Hi 👋 I'm Ruzan Mohamed
 
-🎓 ICT Undergraduate | 💻 Full-Stack Developer (Learning Path)  
-🚀 Focused on building real-world web applications  
-🌱 Currently learning: PHP, MongoDB, Node.js, and React  
-
----
-
-## 🧑‍💻 About Me
-
-- 🎯 Passionate about full-stack web development  
-- 🏗️ Enjoy building practical systems and projects  
-- 📚 Strong interest in backend development (PHP + MongoDB)  
-- 🧠 Improving problem-solving and system design skills  
-- 🎯 Long-term goal: Become a professional software engineer  
+🎓 ICT Undergraduate @ Rajarata University of Sri Lanka  
+⚙️ Practical ICT Systems Builder — MERN Stack | Networking | AI | Security  
+🚀 Founder of **Nexora Labs** — building toward it  
+📍 Galle, Sri Lanka
 
 ---
 
-## ⚙️ Tech Stack (Learning & Working With)
+## 🔨 What I'm Building
 
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React (learning)
-
-### 🖥️ Backend
-- PHP
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 🛠️ Tools
-- Git & GitHub
-- VS Code
-- XAMPP
-- Postman
+- 🏛️ **UniNexus** — A full university management platform (MERN Stack)
+- 🖥️ **Personal Command Center** — Unified dashboard connecting all my systems
+- 🔒 **Cybersecurity Dashboard** — Real-time network and security monitoring
+- 🤖 **AI Assistant Dashboard** — Claude/OpenAI powered personal assistant
+- 🌐 **Portfolio Website** — Showcasing real deployed projects
 
 ---
 
-## 📌 Current Focus
+## 🛠️ Tech Stack
 
-- 🔥 Building full-stack projects for portfolio
-- 🔐 Learning authentication systems (login/register)
-- 🌐 Developing REST APIs
-- 📊 Improving database design skills
-- 🚀 Preparing for real-world internship roles
+**Frontend:** HTML5, CSS3, JavaScript, React.js  
+**Backend:** Node.js, Express.js, PHP  
+**Database:** MongoDB, MySQL  
+**DevOps:** Docker, Linux, Nginx, Git  
+**Tools:** VS Code, Postman, Wireshark, nmap  
+**Learning:** Networking | Cybersecurity | AI Systems | IoT | Cloud
 
 ---
 
-## 📈 Goals (Next 1–2 Years)
+## 🗺️ My 3.5-Year Roadmap
 
-- Build strong MERN/PHP project portfolio  
-- Contribute to open-source projects  
-- Get internship in software development  
-- Improve system design understanding  
-- Become job-ready full-stack developer  
+| Phase | Focus | Timeline |
+|-------|-------|----------|
+| 01 | Foundation — HTML, CSS, JS, React, MERN, Linux | Month 0–6 |
+| 02 | Systems Builder — UniNexus, Networking, Docker | Month 7–18 |
+| 03 | Advanced — AI, Security, CCTV, Automation, Infrastructure | Month 19–30 |
+| 04 | Engineer & Launch — Nexora Labs, Cloud, Open Source | Month 31–42 |
+
+---
+
+## 🎯 Goals
+
+- 🔨 Build 20+ real-world ICT systems over 3.5 years
+- 🚀 Launch **Nexora Labs** as a professional technology company
+- 🌍 Contribute to open source projects
+- 💼 Become a career-ready full-stack ICT systems engineer
+
+---
+
+## 📊 GitHub Stats
+
+![Ruzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzan-Mohamed&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Ruzan-Mohamed  
-- Email: mohamedruzanpro@gmail.com 
-- Portfolio: vercel.app
+- 📧 Email: mohamedruzan.pro@gmail.com
+- 💼 Portfolio: *coming soon*
+- 🏢 Company: **Nexora Labs** — *in progress*
 
 ---
 
-## 💡 Quote I Follow
-
-> "Consistency beats talent when talent doesn’t work hard."
-
----
+*"Build real things. Ship them. Repeat."*
