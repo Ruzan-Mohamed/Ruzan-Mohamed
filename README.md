@@ -1,46 +1,76 @@
-# Hi, I'm Ruzan 👋
+# Hi 👋 I'm Ruzan
 
-🎓 ICT Undergraduate | 💻 Full-Stack Developer (PHP, Node.js, MongoDB)  
-🚀 Passionate about building real-world web applications  
-🌱 Currently learning MERN stack & backend systems  
-🎯 Goal: Become a professional full-stack developer in the industry  
-
----
-
-## 🛠️ Tech Stack
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP, Node.js, Express
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code, XAMPP
+🎓 ICT Undergraduate | 💻 Full-Stack Developer (Learning Path)  
+🚀 Focused on building real-world web applications  
+🌱 Currently learning: PHP, MongoDB, Node.js, and React  
 
 ---
 
-## 📌 Projects
+## 🧑‍💻 About Me
 
-### 📁 Portfolio Website
-- Personal academic + development portfolio
-- Tech: HTML, CSS, JavaScript
-- GitHub: [Portfolio](https://github.com/Ruzan-Mohamed/PORTFOLIO)
-
-### 📁 UniNexus (Upcoming)
-- Student academic platform
-- Features: GPA calculator, notes system, admin dashboard
-- Tech: MERN Stack
-
----
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ruzan-Mohamed&theme=tokyonight)
+- 🎯 Passionate about full-stack web development  
+- 🏗️ Enjoy building practical systems and projects  
+- 📚 Strong interest in backend development (PHP + MongoDB)  
+- 🧠 Improving problem-solving and system design skills  
+- 🎯 Long-term goal: Become a professional software engineer  
 
 ---
 
-## 📫 Contact Me
+## ⚙️ Tech Stack (Learning & Working With)
 
-- Email: mohamedruzan.pro@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/Ruzan-Mohamed
+### 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React (learning)
+
+### 🖥️ Backend
+- PHP
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- XAMPP
+- Postman
 
 ---
 
-⭐ Always learning, always improving.
+## 📌 Current Focus
+
+- 🔥 Building full-stack projects for portfolio
+- 🔐 Learning authentication systems (login/register)
+- 🌐 Developing REST APIs
+- 📊 Improving database design skills
+- 🚀 Preparing for real-world internship roles
+
+---
+
+## 📈 Goals (Next 1–2 Years)
+
+- Build strong MERN/PHP project portfolio  
+- Contribute to open-source projects  
+- Get internship in software development  
+- Improve system design understanding  
+- Become job-ready full-stack developer  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ruzan-Mohamed  
+- Email: mohamedruzanpro@gmail.com 
+- Portfolio: vercel.app
+
+---
+
+## 💡 Quote I Follow
+
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
