@@ -33,9 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzan-Mohamed&layout=compact&theme=tokyonight" />
+![GitHub Stats](https://www.github-readme-stats.vercel.app/api?username=Ruzan-Mohamed&show_icons=true&theme=tokyonight) 
+  
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ruzan-Mohamed&theme=tokyonight)
