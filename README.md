@@ -21,7 +21,7 @@
 ### 📁 Portfolio Website
 - Personal academic + development portfolio
 - Tech: HTML, CSS, JavaScript
-- GitHub: [[Your Repo Link]](https://github.com/Ruzan-Mohamed/PORTFOLIO)
+- GitHub: [Portfolio](https://github.com/Ruzan-Mohamed/PORTFOLIO)
 
 ### 📁 UniNexus (Upcoming)
 - Student academic platform
